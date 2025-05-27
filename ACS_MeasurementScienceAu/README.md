@@ -1,4 +1,4 @@
-# Heading
+# Measuring Temperature Dependent Thermodynamics of Electrochemical Reactions 
 1. These are supporting files for our ACS Measurement Science Au manuscript (DOI: XXX) 
 
 2. "Temp_CV" VI is for running cyclic voltammetry and "Temp_EIS" VI is for running electrochemical impedance spectroscopy. 
